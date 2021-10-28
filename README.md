@@ -12,6 +12,7 @@ All experiments were performed on A100 GPU provided by HiPC team.
 **Compilation command** : nvcc -arch=sm_80 kClique.cu -o kClique
 
 **Execution command** : ./kClique
+
 It take 2 inputs as given in problem statement, first path to the data file and second, parameter k.
 
 
